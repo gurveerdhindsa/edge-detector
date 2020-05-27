@@ -2,11 +2,12 @@
   <h1 align="center">edge-detector</h1>
 </p>
 
+> Detects and finds edge intensity in an image.
+
 <p align="center">
     <img src="screenshots/detected.png" />
 </p>
 
-> Detects and finds edge intensity in an image.
 
 ### Clone
 - Clone this repo to your local machine using `https://github.com/gurveerdhindsa/edge-detector.git`
