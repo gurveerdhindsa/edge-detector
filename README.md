@@ -2,6 +2,10 @@
   <h1 align="center">edge-detector</h1>
 </p>
 
+<p align="center">
+    <img src="screenshots/detected.png" />
+</p>
+
 > Detects and finds edge intensity in an image.
 
 ### Clone
