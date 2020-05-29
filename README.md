@@ -9,7 +9,7 @@
 > Detect and find edge intensity in an image
 
 ### Clone
-- Clone this repo to your local machine using `https://github.com/gurveerdhindsa/edge-detector.git`
+- Clone this repo to your local machine using `https://github.com/gurveerdhindsa/edges.git`
 
 ### Run
 ```
